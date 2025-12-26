@@ -8,5 +8,10 @@
     "name": "Miracle Core",
     "version": "1.0.0",
     "url": "https://github.com/lenasulphora/Miracle-Core/releases/latest"
+  },
+  "miracle_bugtool": {
+    "name": "Miracle BugTool",
+    "version": "1.0.0",
+    "url": "https://github.com/lenasulphora/Miracle-BugTool/releases/latest"
   }
 }
