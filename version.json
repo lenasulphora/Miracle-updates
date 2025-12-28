@@ -17,7 +17,6 @@
   "miracle_tracker_pro": {
     "name": "Miracle Tracker Pro",
     "version": "1.0.1",
-    "enabled": true,
     "url": "https://github.com/lenasulphora/Miracle-Tracker-Pro/releases/latest"
   }
 }
