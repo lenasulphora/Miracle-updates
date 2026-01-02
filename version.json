@@ -18,5 +18,10 @@
     "name": "Miracle Tracker Pro",
     "version": "1.0.1",
     "url": "https://github.com/lenasulphora/Miracle-Tracker-Pro/releases/latest"
+  },
+  "miracle_pet_gather": {
+    "name": "Miracle Pet Gather",
+    "version": "1.0.0",
+    "url": "https://github.com/lenasulphora/Miracle-Pet-Gather/releases/latest"
   }
 }
